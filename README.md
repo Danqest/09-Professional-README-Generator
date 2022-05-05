@@ -12,21 +12,21 @@ TABLE OF CONTENTS:
 3) [CONTRIBUTING](#Contributing)
 4) [TESTS](#Tests)
 
-1) <a name="Installation"></a> INSTALLATION:
+<a name="Installation"></a> INSTALLATION:
 Download the repo from Github, cd into the folder using your bash of choice, and run "node index.js". This assumes you have Inquirer and FS installed.
 
 
-2) <a name="Usage"></a> USAGE:
+<a name="Usage"></a> USAGE:
 
 Follow the prompts in the terminal.
 
 
-3) <a name="Contributing"></a> CONTRIBUTING:
+<a name="Contributing"></a> CONTRIBUTING:
 
 If you would like to contribute to this project, reach out to me using my contact information below.
 
 
-4) <a name="Tests"></a> TESTS:
+<a name="Tests"></a> TESTS:
 
 If you would like to test the project, reach out to me using my contact information below.
 
