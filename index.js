@@ -64,36 +64,45 @@ inquirer
       err ? console.log(err) : console.log("Success!"))
     })
 
-    function generateREADME(data) {
-        return `# ${data.projectTitle}
-        ![license](https://img.shields.io/badge/${data.license}-License-green)
-        DESCRIPTION:
-        ${data.description}
+  function generateREADME(data) {
+    return `
+  # ${data.projectTitle}
+  ![license](https://img.shields.io/badge/${data.license}-License-green)
+  
+  ## DESCRIPTION:
+  
+  ${data.description}
 
-        TABLE OF CONTENTS:
-        1) [INSTALLATION](#Installation)
-        2) Usage
-        3) Contributing
-        4) Tests
+  ## TABLE OF CONTENTS:
+  - [INSTALLATION](#Installation)
+  - [USAGE](#Usage)
+  - [CONTRIBUTING](#Contributing)
+  - [TESTS](#Tests)
 
-        #<a name="installation"></a> INSTALLATION:
-        ${data.installation}
+  ## <a name="Installation"></a> INSTALLATION:
+  
+  ${data.installation}
+  
+  ## <a name="Usage"></a> USAGE:
+  
+  ${data.usage}
 
-        2) USAGE:
-        ${data.usage}
+  ## <a name="Contributing"></a> CONTRIBUTING:
+  
+  ${data.contributing}
 
-        3) CONTRIBUTING:
-        ${data.contributing}
+  ## <a name="Tests"></a> TESTS:
+  
+  ${data.tests}
 
-        4) TESTS:
-        ${data.tests}
+  ## QUESTIONS - CONTACT:
+  
+  Github: https://www.github.com/${data.username}
+  Email: ${data.email}
 
-        QUESTIONS - CONTACT:
-        Github: [![${data.username} Github](https://www.github.com/${data.username})]()
-        Email: ${data.email}
-
-        LICENSE:
-        This application is covered under the ${data.license} License.
-        
-        `
+  ## LICENSE:
+  
+  This application is covered under the ${data.license} License.
+      
+      `
     }
