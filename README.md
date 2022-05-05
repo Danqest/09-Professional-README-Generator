@@ -13,12 +13,13 @@ TABLE OF CONTENTS:
 4) [TESTS](#Tests)
 
 <a name="Installation"></a> INSTALLATION:
+
 Download the repo from Github, cd into the folder using your bash of choice, and run "node index.js". This assumes you have Inquirer and FS installed.
 
 
-<a name="Usage"></a> USAGE:
+- <a name="Usage"></a> USAGE:
 
-Follow the prompts in the terminal.
+        - Follow the prompts in the terminal.
 
 
 <a name="Contributing"></a> CONTRIBUTING:
@@ -34,6 +35,7 @@ If you would like to test the project, reach out to me using my contact informat
 QUESTIONS - CONTACT:
 
 Github: https://www.github.com/Danqest
+
 Email: mcbrooks@pm.me
 
 
