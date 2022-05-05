@@ -13,7 +13,7 @@ TABLE OF CONTENTS:
 3. Contributing
 4. Tests
 
-<a name="installation"></a> INSTALLATION:
+<a name="Installation"></a> INSTALLATION:
 
 Download the repo from Github, cd into the folder using your bash of choice, and run "node index.js". This assumes you have Inquirer and FS installed.
 
@@ -30,10 +30,8 @@ If you would like to contribute to this project, reach out to me using my contac
 If you would like to test the project, reach out to me using my contact information below.
 
 QUESTIONS - CONTACT:
-
-Github: ![Danqest](https://www.github.com/Danqest)
+Github: https://www.github.com/Danqest
 Email: mcbrooks@pm.me
 
 LICENSE:
-
 This application is covered under the MIT License.
