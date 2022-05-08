@@ -38,5 +38,8 @@
   ## LICENSE:
   
   This application is covered under the MIT License.
+
+  ## WALKTHRU VIDEO
+  https://drive.google.com/file/d/1JC7a1FePN4NBECYRweojPbQzWoVI49CH/view
       
       
