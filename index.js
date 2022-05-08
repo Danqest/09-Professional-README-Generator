@@ -95,7 +95,9 @@ inquirer
   
   ${data.tests}
 
-  ## QUESTIONS - CONTACT:
+  ## QUESTIONS:
+  
+  Reach me at my Github and Email address:
   
   Github: https://www.github.com/${data.username}
   Email: ${data.email}
@@ -104,5 +106,7 @@ inquirer
   
   This application is covered under the ${data.license} License.
       
+  ## WALKTHRU VIDEO:
+  https://drive.google.com/file/d/1JC7a1FePN4NBECYRweojPbQzWoVI49CH/view
       `
     }
